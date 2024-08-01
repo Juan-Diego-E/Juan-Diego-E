@@ -9,12 +9,13 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="vsCode" width="30px" style="padding-right:10px;" src="https://chris-ayers.com/assets/images/vscode-logo.png" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/html-2752158-2284975.png" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-css-alt-3521367-2944811.png?f=webp" />
 <img align="left" alt="Bootstrap" width="38px" height="34px" style="padding-right:10px;" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://dabeng.github.io/img/reactjs.png" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Angularjsoldicon.png/250px-Angularjsoldicon.png" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/python-icon-512x509-pb65l7gl.png" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
@@ -22,6 +23,8 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="npm" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/250px-Npm-logo.svg.png" />
+<img align="left" alt="mySQL" width="30px" style="padding-right:10px;" src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo396.png" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" />
 <br />
 
 ---
