@@ -2,10 +2,14 @@
 ✨Wellcome to my GitHub profile✨
 ### 🙋🏻 I'm Juan Diego
 
-**`Full Stack Web Developer
-(Constantly adding skills...)`**
+****`Full Stack Web Developer
+(On process...)`****
+-
+- Self-taught
+- Passion for learning
+- Creator of solutions through logical thinking
 
-   ---
+---
 
 ### 🧰 Languages and Tools
 
@@ -50,6 +54,7 @@
 ### 📊 Stats
 
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan-diego-e&show_icons=true&theme=vue-dark)
+--
 
 <p align="left">
    <a href="https://www.linkedin.com/in/juan-diego-elissalde-gudef%C3%ADn-4248422b8/">
