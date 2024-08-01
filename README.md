@@ -30,9 +30,25 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+---
+# 📺 Some Projects
+<p align="center">
+🍀 Key Drop clone 🍀
+<p align="center">
+   <img width="40%" src="./images/key-drop.png" />
+   <img width="40%" src="./images/key-drop-b.png" />
+</p>
+<br />
+<p align="center">
+🌘 Star Wars Blog 🌒
+<p align="center">
+   <img width="40%" src="./images/star-wars-blog.png" />
+   <img width="40%" src="./images/star-wars-blog-b.png" />
+</p>
+</p>
+<br />
 
-
+---
 ### 📊 Stats
 
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan-diego-e&show_icons=true&theme=vue-dark)
