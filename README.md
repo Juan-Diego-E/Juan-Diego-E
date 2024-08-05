@@ -64,3 +64,11 @@
       Let's Connect on Linkedin.
    </a>
 </p>
+<p align="left">
+   <a href="https://www.linkedin.com/in/juan-diego-elissalde-gudef%C3%ADn-4248422b8/">
+      <img alt="Gmail" title="Gmail" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" width="28px"/>
+   </a>
+   <a href="https://www.linkedin.com/in/juan-diego-elissalde-gudef%C3%ADn-4248422b8/">
+      Gmail.
+   </a>
+</p>
