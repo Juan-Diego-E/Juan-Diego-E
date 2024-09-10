@@ -2,12 +2,11 @@
 ✨Wellcome to my GitHub profile✨
 ### 🙋🏻 I'm Juan Diego
 
-****`Full Stack Web Developer
-(On process...)`****
+****`Full Stack Web Developer`****
 -
-- Self-taught
-- Passion for learning
-- Creator of solutions through logical thinking
+- ✅ Self-taught
+- 🧠 Creator of solutions through logical thinking
+- ♟️ I like chess
 
 ---
 
