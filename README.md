@@ -8,7 +8,6 @@
 - ♟️ I like playing chess
 
 ---
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="vsCode" width="30px" style="padding-right:10px;" src="https://chris-ayers.com/assets/images/vscode-logo.png" />
@@ -30,13 +29,6 @@
 <br />
 
 ---
-
-### 📊 Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juan-Diego-E&theme=ayu-mirage&hide_border=true)](https://git.io/streak-stats)
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan-diego-e&show_icons=true&theme=ayu-mirage&hide_border=true)
---
-
 # 📺 Some Projects
 <details>
 <summary>
@@ -94,8 +86,12 @@
 </details>
 
 ---
+### 📊 Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juan-Diego-E&theme=ayu-mirage&hide_border=true)](https://git.io/streak-stats)
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan-diego-e&show_icons=true&theme=ayu-mirage&hide_border=true)
 
+---
 <p align="left">
    <a href="https://www.linkedin.com/in/juan-diego-elissalde-gudef%C3%ADn-4248422b8/">
       <img alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="28px"/>
@@ -113,5 +109,5 @@
    </a>
 </p>
 
----
 [![](https://visitcount.itsvg.in/api?id=Juan-Diego-E&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
