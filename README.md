@@ -88,8 +88,8 @@
 ---
 ### 📊 Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juan-Diego-E&theme=ayu-mirage&hide_border=true)](https://git.io/streak-stats)
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan-diego-e&show_icons=true&theme=ayu-mirage&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juan-Diego-E&theme=ayu-mirage&hide_border=true&card_width=400)](https://git.io/streak-stats)
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan-diego-e&show_icons=true&theme=ayu-mirage&hide_border=true&card_width=300)
 
 ---
 <p align="left">
